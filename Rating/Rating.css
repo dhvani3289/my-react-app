@@ -1,0 +1,10 @@
+.star {
+    padding: 10px;
+    font-size: 30px;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    top: 98px;
+}
